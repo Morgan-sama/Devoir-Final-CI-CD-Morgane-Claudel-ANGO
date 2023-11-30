@@ -7,6 +7,7 @@ import { Component } from '@angular/core';
 })
 export class PageComponent {
 
-  infos = "Morgane Claudel ANGO-ING4 ISI"
+  infos = "Morgane Claudel ANGO"
+  niveau = "-ING4 ISI"
 
 }
