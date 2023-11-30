@@ -1,0 +1,16 @@
+.pass-cuisto2{
+    position: relative;
+    
+    }
+    
+    .text-over{
+        position: absolute;
+        right:10%;
+        top: 80%;
+        font-size: 700%;
+        font : bold;
+        color: #ADD8E6;
+        font-family: Georgia, 'Times New Roman', Times, serif ;
+        font-weight: extra bold;   
+    }
+    
