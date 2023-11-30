@@ -19,7 +19,11 @@ describe('PageComponent', () => {
     expect(component).toBeTruthy();
   });
 
+  it(`should have as text 'Morgane Claudel ANGO-ING4 ISI'`,()=>{
+    const fixture = TestBed.createComponent(PageComponent)
+    const accueil = fixture.componentInstance;
+    expect(accueil.infos).toEqual('Morgane Claudel ANGO-ING4 ISI');
+  })
+
   
-
-
 });
